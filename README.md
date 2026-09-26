@@ -29,12 +29,23 @@ Project ini dikembangkan secara kolaboratif bersama:
 
 Collaboration
 
-<a href="https://github.com/RifanCTR">
-  <img src="https://github.com/RifanCTR.png" width="80px" alt="RifanCTR">
-  <br>
-  <b>RifanCTR</b>
-</a><a href="https://github.com/Deryy1">
-  <img src="https://github.com/Deryy1.png" width="80px" alt="Deryy1">
-  <br>
-  <b>Deryy1</b>
-</a>
+Collaboration
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RifanCTR">
+        <img src="https://github.com/RifanCTR.png" width="100px;" style="border-radius: 50%;" alt="RifanCTR"/>
+        <br />
+        <sub><b>RifanCTR</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Deryy1">
+        <img src="https://github.com/Deryy1.png" width="100px;" style="border-radius: 50%;" alt="Deryy1"/>
+        <br />
+        <sub><b>Deryy1</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
