@@ -25,26 +25,20 @@ Fitur
 
 Collaboration
 
-Project ini dikembangkan secara kolaboratif bersama:
-
-Collaboration
-
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/RifanCTR" style="text-decoration: none;">
-        <div style="border: 1px solid #30363d; border-radius: 12px; padding: 8px 12px; display: inline-flex; align-items: center;">
-          <img src="https://github.com/RifanCTR.png" width="40" height="40" style="border-radius: 50%; margin-right: 8px;" alt="RifanCTR"/>
-          <b>RifanCTR</b>
-        </div>
+    <td align="center">
+      <a href="https://github.com/RifanCTR">
+        <img src="https://avatars.githubusercontent.com/RifanCTR?s=80" width="60" height="60" alt="RifanCTR"/>
+        <br>
+        <b>RifanCTR</b>
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Deryy1" style="text-decoration: none;">
-        <div style="border: 1px solid #30363d; border-radius: 12px; padding: 8px 12px; display: inline-flex; align-items: center;">
-          <img src="https://github.com/Deryy1.png" width="40" height="40" style="border-radius: 50%; margin-right: 8px;" alt="Deryy1"/>
-          <b>Deryy1</b>
-        </div>
+    <td align="center">
+      <a href="https://github.com/Deryy1">
+        <img src="https://avatars.githubusercontent.com/Deryy1?s=80" width="60" height="60" alt="Deryy1"/>
+        <br>
+        <b>Deryy1</b>
       </a>
     </td>
   </tr>
