@@ -27,4 +27,14 @@ Collaboration
 
 Project ini dikembangkan secara kolaboratif bersama:
 
-@RifanCTR @Deryy1
+Collaboration
+
+<a href="https://github.com/RifanCTR">
+  <img src="https://github.com/RifanCTR.png" width="80px" alt="RifanCTR">
+  <br>
+  <b>RifanCTR</b>
+</a><a href="https://github.com/Deryy1">
+  <img src="https://github.com/Deryy1.png" width="80px" alt="Deryy1">
+  <br>
+  <b>Deryy1</b>
+</a>
